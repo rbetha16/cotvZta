@@ -1,0 +1,21 @@
+projectName,tagName,featureNo,featureName,userstoryNo,testscriptName,testType,priority
+CPTICDLinks,US24466DynamicFilterforAssigneeonTargetviewAdminshouldhaveRoleofAdminOps,F6333,Establish Operational Audit Functionality - June Release,US24466,US24466-Dynamic filter for Assignee on Target view & Admin should have role of AdminOps,Regression,1
+CPTICDLinks,US20931DisplayTargettableData,F6333,Establish Operational Audit Functionality - June Release,US20931,US20931-Display Target table Data,Regression,1
+CPTICDLinks,US20932AbilitytoFilterTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,US20932-Ability to Filter Target Table data,Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""LCD/Article ID""",Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""CPT Code""",Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""CPT Group""",Regression,2
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""ICD Code""",Regression,3
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""ICD Group""",Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Category""",Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""DOS From""",Regression,2
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""DOS To""",Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Decision""",Regression,2
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Assignee""",Regression,1
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Combination Type""",Regression,2
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Jurisdiction""",Regression,2
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Remarks""",Regression,3
+CPTICDLinks,US20932AbilitytoSortTargetTabledata,F6333,Establish Operational Audit Functionality - June Release,US20932,"US20932-Ability to Sort Target table data for ""Reason For Updating Decision""",Regression,1
+CPTICDLinks,"TC7681(US14280,Feature-F5007)DisplayrecordsinGroupTaskscreen_TC6711-ValidateDisplayedRecordsinGroupTaskScreen",F5007,Validate Displayed Records in Group task screen,US14280,"TC7681(US14280,Feature-F5007)-Display records in Group Task screen_TC6711-Validate Displayed Records in Group Task Screen",Regression,3
+CPTICDLinks,TC6712-AbilitytoGenerateAProposalforRAReviewofCodecombinations,F5007,Validate Displayed Records in Group task screen,NA,TC6712-Ability to generate a proposal for RA Review of Code combinations,Regression,2
+CPTICDLinks,US23990-AbilitytoNotLetRAInitiateReviewforanLCD/ArticleWithoutCompletingPreviousTask,F7315,Establish Proposal Review Workflow - August,US23990,US23990-Ability to not let RA initiate Review for an LCD/Article without completing previous task,Regression,2
